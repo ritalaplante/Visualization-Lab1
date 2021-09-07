@@ -1,0 +1,46 @@
+/*Container Styling */
+.container {
+    padding: 25px 50px;
+  }
+
+/*Generated Content*/
+.generated-content {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+/*Button Styling*/
+.button {
+    background-color: #685c53;
+    border: none;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
+.button:hover {
+    background-color: #dccaa0; 
+    color: white;
+  }
+
+/*Image Stylings*/
+img {
+    border-radius: 8px;
+    padding: 5px;
+}
+
+/*Caption Styling*/
+#linkCaption{
+    padding: 5px;
+}
+
+/*Link Styling*/
+a {
+    color: #685c53;
+  }
+
+  a:hover {
+    color: #dccaa0;
+  }
